@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shehara Gallage
+## Hi, I'm Shehara Gallage <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="wave" width="28" height="28" />
 
 I'm a third‑year B.Sc. (Hons) in Information Technology undergraduate at the University of Moratuwa, passionate about building clean, reliable full‑stack applications. I enjoy solving real problems, collaborating in teams, and shipping features with attention to detail.
 
